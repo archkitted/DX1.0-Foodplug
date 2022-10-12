@@ -55,7 +55,7 @@ header{
 }
 
 .nav-mobile{
-    border: 3px solid black;
+    /* border: 3px solid black; */
     display: none;
     justify-content: space-between;
     padding: 0 20px;
@@ -148,13 +148,13 @@ header{
     
 }
 .banner-content{
-    border: 3px solid red;
+    /* border: 3px solid red; */
     width: 90%;
     margin: 0 auto;
     height: 100%;
 }
 .header-text-container{
-    border: 3px solid purple;
+    /* border: 3px solid purple; */
     width: 50%;
 }
 .header-icons {
