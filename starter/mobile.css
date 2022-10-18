@@ -35,4 +35,18 @@
     }
 /* about us section ends here */
 
+/* Explore section starts here */
+
+    .explorefoods-card{
+        margin: 20px 0;
+    }
+/* Explore section ends here */
+
+/* FAQ section Starts here */
+    .faq-items{
+        min-width: 350px;
+    }
+    
+/* FAQ section ends here */
+
 }
